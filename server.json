@@ -52,6 +52,47 @@
           "value": 1.5
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Lasanha",
+      "description": "Uma deliciosa lasanha de 4 camadas ao molho vermelho.",
+      "price": "20.00",
+      "category": 1,
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/ao_molho.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Bacon",
+          "value": 1.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Portuguesa",
+      "description": "Massa crocante com uma deliciosa borda recheada de catupiri.",
+      "price": "25.90",
+      "category": 2,
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/veggie.png",
+      "extras": [
+        {
+          "id": 4,
+          "name": "Bacon",
+          "value": 1.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Filé Mignon",
+      "description": "3 suculentos bifes, 200g cada.",
+      "price": "32.40",
+      "category": 3,
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/camarao.png"
     }
   ],
   "categories": [
